@@ -1,0 +1,1 @@
+El flujo de trabajo... 1-Hacer cambios. 2- Añadir cambios a zona... 3- Hacer commit
